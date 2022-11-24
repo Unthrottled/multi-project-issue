@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.unthrottled.multiprojectissue.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.unthrottled.multiprojectissue.MyBundle
 
 class MyApplicationService {
 
